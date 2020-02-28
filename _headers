@@ -1,0 +1,59 @@
+/*
+	Cache-Control: public, max-age=3600, no-cache
+	Access-Control-Max-Age: 600
+/sw.js
+	Cache-Control: private, no-cache
+/*.chunk.*.js
+	Cache-Control: public, max-age=31536000
+/
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-home.chunk.ef6b5.js>; rel=preload; as=script
+/add-statistic
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-add-statistic.chunk.4c915.js>; rel=preload; as=script
+/settings
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-settings.chunk.126b7.js>; rel=preload; as=script
+/stats
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-stats.chunk.0e0cd.js>; rel=preload; as=script
+/get-started
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-get-started.chunk.dfedf.js>; rel=preload; as=script
+/year
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-year.chunk.34083.js>; rel=preload; as=script
+/not-found
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-not-found.chunk.4ee87.js>; rel=preload; as=script
+/months
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-months.chunk.f545e.js>; rel=preload; as=script
+/highlights
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-highlights.chunk.c6cbc.js>; rel=preload; as=script
+/entries
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-entries.chunk.32189.js>; rel=preload; as=script
+/day
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-day.chunk.8ae19.js>; rel=preload; as=script
+/add-journal-question
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-add-journal-question.chunk.1dc2a.js>; rel=preload; as=script
+/about
+	Link: </style.f7d14.css>; rel=preload; as=style
+	Link: </bundle.8eb95.js>; rel=preload; as=script
+	Link: </route-about.chunk.2ff2d.js>; rel=preload; as=script
